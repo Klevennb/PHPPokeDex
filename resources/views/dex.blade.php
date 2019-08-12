@@ -86,7 +86,7 @@
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Full PokeDex</a>
-                    <a href="https://laravel.com/docs">My PokeDex</a>
+                    <a href="https://laravel.com/docs">My PokeasdfqwefqwefDex</a>
                 </div>
             </div>
         </div>
